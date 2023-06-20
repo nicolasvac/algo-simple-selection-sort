@@ -7,9 +7,12 @@
 
 #include <stdio.h>
 
+/**
+ * Sorts a vector using selection sort algorithm
+ * @param vec The vector to sort
+ * @param vec_size The size of the vector to sort
+ */
 void sort(int *vec, int vec_size);
-
-int min_element(int *vec, int vec_start, int vec_size);
 
 /**
  * Prints a vector of integers to stdout
