@@ -1,2 +1,2 @@
-# algo-simple-selection-sort
+# Selection sort
 Simple implementation of selection sort in C
